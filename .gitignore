@@ -1,0 +1,10 @@
+# env
+.env
+
+# nodejs
+node_modules/
+.next/
+
+# backups
+servers/
+script/
